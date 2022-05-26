@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @am-percy
 - 👀 I’m interested in winning, Blockchain and interesting projects 
-- 🌱 I’m currently learning Full stack development & Python 
+- 🌱 I’m currently learning CloudOps & Haskell
 - 💞️ I’m looking to collaborate on any project that helps me improve my skills
 - 📫 How to reach me percy@engineer.com 
 
