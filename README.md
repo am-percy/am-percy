@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @am-percy
 - 👀 I’m interested in winning, Blockchain and interesting projects 
 - 🌱 I’m currently learning CloudOps & Haskell
-- 💞️ I’m looking to collaborate on any project that helps me improve my skills
+- 💞️ I’m looking to collaborate on any project that helps you bring your project to life. 
 - 📫 How to reach me abahopercy@gmail.com 
 
 <!---
